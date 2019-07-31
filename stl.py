@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 ###########################################################
-# Aldebaran Behavior Complementary Development Kit
+# Alexandre Behavior Complementary Development Kit
 # Stereolithography Tools: load, split and merge
-# Aldebaran Robotics (c) 2010 All Rights Reserved - This file is confidential.
+# Alexandre (c) 2008-2028 All Rights Reserved
 ###########################################################
 
 """
-When invoked from command line, two functionnality are offered:
+When invoked from command line, two functionnalities are offered:
 
 1) quick viewer
 scriptname <stl_file>: will render the file on screen
